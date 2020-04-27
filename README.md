@@ -1,4 +1,4 @@
-#NLP
+                                                     NLP - Natural Language Processing
 
 Natural Language Processing (NLP) deals with actual text element processing. The text element is transformed into machine format by NLP. Artificial Intelligence (AI) uses information provided by the NLP and applies a lot of maths to determine whether something is positive or negative.
 
